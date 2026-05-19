@@ -1,0 +1,21 @@
+CaseID,CustomerKey,CaseDate,Channel,IssueType,Priority,Status,ResolutionDate,ResolutionSummary
+CS0001,17432,2019-06-29,Chat,Account Question,Medium,Resolved,2019-07-03,Account details verified
+CS0002,14682,2019-05-02,Chat,Account Question,Low,Closed,2019-05-04,Account details verified
+CS0003,15321,2019-04-14,Email,Product Defect,Low,Closed,2019-04-16,Product exchanged under warranty
+CS0004,19877,2019-02-07,Phone,Warranty Claim,Medium,Closed,2019-02-08,Warranty approved and repair initiated
+CS0005,12210,2019-03-30,Chat,Return Request,Medium,Resolved,2019-03-30,Return accepted and refund completed
+CS0006,18144,2019-01-15,Chat,Product Defect,High,Resolved,2019-01-17,Product exchanged under warranty
+CS0007,16409,2019-02-20,Phone,Return Request,Low,Closed,2019-02-24,Return accepted and refund completed
+CS0008,13755,2019-01-14,Email,Product Defect,Low,Open,2019-01-15,Product exchanged under warranty
+CS0009,19021,2019-04-02,Chat,Product Defect,Medium,Closed,2019-04-05,Product exchanged under warranty
+CS0010,15590,2019-03-22,Email,Payment Issue,Medium,Resolved,2019-03-25,Payment verified and order released
+CS0011,17211,2019-02-23,Email,Warranty Claim,Low,Closed,2019-02-24,Warranty approved and repair initiated
+CS0012,18345,2019-06-11,Email,Product Defect,High,Closed,2019-06-12,Product exchanged under warranty
+CS0013,19440,2019-02-09,Phone,Account Question,Low,Closed,2019-02-13,Account details verified
+CS0014,13218,2019-05-04,Phone,Wrong Product,Low,Resolved,2019-05-08,Replacement shipped to customer
+CS0015,16777,2019-03-12,Phone,Delivery Delay,Low,Open,2019-03-12,Delivery updated and customer notified
+CS0016,12890,2019-03-22,Chat,Payment Issue,Medium,Open,2019-03-24,Payment verified and order released
+CS0017,17654,2019-02-10,Chat,Account Question,High,Resolved,2019-02-13,Account details verified
+CS0018,14902,2019-02-17,Chat,Delivery Delay,Medium,Resolved,2019-02-21,Delivery updated and customer notified
+CS0019,16011,2019-04-11,Phone,Payment Issue,Medium,Resolved,2019-04-13,Payment verified and order released
+CS0020,19987,2019-04-13,Phone,Warranty Claim,Medium,Resolved,2019-04-15,Warranty approved and repair initiated
